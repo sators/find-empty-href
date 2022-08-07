@@ -1,8 +1,8 @@
 {
-	"name": "find-empty-hrefs",
+	"name": "find-empty-href",
 	"version": "0.0.1",
 	"bin": {
-		"find-empty-hrefs": "bin/index.js"
+		"find-empty-href": "bin/index.js"
 	},
 	"description": "A script that will traverse HTML and XHTML files and return an error if an empty href attribute is found",
 	"main": "bin/index.js",
@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sators/find-empty-hrefs.git"
+		"url": "https://github.com/sators/find-empty-href.git"
 	},
 	"author": "Sators <sators@sators.com",
 	"license": "UNLICENSED",
