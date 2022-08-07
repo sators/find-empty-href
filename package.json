@@ -1,0 +1,18 @@
+{
+	"name": "find-empty-hrefs",
+	"version": "0.0.1",
+	"bin": {
+		"find-empty-hrefs": "bin/index.js"
+	},
+	"description": "A script that will traverse HTML and XHTML files and return an error if an empty href attribute is found",
+	"main": "bin/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Sators <sators@sators.com",
+	"license": "UNLICENSED",
+	"dependencies": {
+		"glob": "^8.0.3",
+		"jsdom": "^20.0.0"
+	}
+}
