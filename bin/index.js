@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#!/usr/bin/env node
 
 const glob = require("glob")
 const jsdom = require("jsdom")
