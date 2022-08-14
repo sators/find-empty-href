@@ -1,6 +1,6 @@
 {
 	"name": "find-empty-href",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"bin": {
 		"find-empty-href": "bin/index.js"
 	},
