@@ -17,6 +17,6 @@
 	"license": "UNLICENSED",
 	"dependencies": {
 		"glob": "^8.0.3",
-		"jsdom": "^20.0.0"
+		"jsdom": "^17.0.0"
 	}
 }
