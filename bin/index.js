@@ -5,7 +5,7 @@ const jsdom = require("jsdom")
 const { JSDOM } = jsdom
 const fs = require("fs")
 const { exit } = require("process")
-const htmlFiles = glob.sync("**/*html")
+const htmlFiles = glob.sync("**(!node_modules)/*html")
 
 console.log(
 	`**** Searching ${htmlFiles.length} file${
